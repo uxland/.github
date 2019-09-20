@@ -25,8 +25,8 @@ Please delete options that are not relevant.
 
 - [ ] My code follows the style guidelines of this project
 - [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings. 
-<!-- If breaking changes are included, be sure that a `major` version is released -->
+- [ ] My changes generate no new warnings
+- [ ] If breaking changes are included, a `major` version is going to be released
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published in downstream modules
